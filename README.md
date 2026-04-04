@@ -20,12 +20,14 @@ The project integrates multiple datasets, including:
 - Opportunity Reports
 
 ⚙️ Technologies Used
+
 Excel → Data cleaning, transformation, and dashboard creation
 SQL → Data storage, relational tables, and KPI queries
 Tableau → Interactive dashboards and drill-down analysis
 Power BI → Advanced KPI dashboard and funnel analytics
 
 🛠️ Key Performance Indicators (KPIs)
+
 1.Revenue KPIs
 2.Total Revenue
 3.Cross-Sell Target vs Achieved
@@ -43,6 +45,7 @@ Power BI → Advanced KPI dashboard and funnel analytics
 15.Opportunity Conversion Ratio
 
 📌 Key Business Insights
+
 Renewal business achieved the highest performance
 Fire insurance generated the highest revenue
 Some opportunities are still stuck in the early funnel stage
@@ -50,6 +53,7 @@ Some account executives need performance improvement
 Cross-sell opportunities have high growth potential
 
 ✅ Recommendations
+
 Increase focus on cross-sell strategies
 Improve opportunity conversion rates
 Encourage more client meetings
