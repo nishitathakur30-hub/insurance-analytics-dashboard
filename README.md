@@ -1,2 +1,7 @@
-# Insurance-Analytics-Dashboard
-Interactive KPI dashboard analyzing insurance data across New Business, Cross-Sell &amp; Renewal streams using SQL, Excel, Tableau and Power BI
+📊 Insurance Analytics Dashboard
+
+Excel | SQL | Tableau | Power BI
+
+- Cleaned and analyzed multi-source insurance data (invoice, brokerage, meetings, opportunities)
+- Built interactive dashboards tracking KPIs across New Business, Cross-Sell, and Renewal streams
+- Key insight: Renewal stream at 150% of target; flagged New Business gap with strategic recommendations
