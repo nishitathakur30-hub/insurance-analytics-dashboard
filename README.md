@@ -28,21 +28,22 @@ Power BI → Advanced KPI dashboard and funnel analytics
 
 🛠️ Key Performance Indicators (KPIs)
 
-1.Revenue KPIs
-2.Total Revenue
-3.Cross-Sell Target vs Achieved
-4.New Business Target vs Achieved
-5.Renewal Target vs Achieved
-6.Performance KPIs
-7.Achievement Percentage
-8.Invoice Achievement Percentage
-9.Number of Meetings by Account Executive
-10.Number of Invoices by Account Executive
-11.Opportunity KPIs
-12.Total Opportunities
-13.Open Opportunities
-14.Closed Won Opportunities
-15.Opportunity Conversion Ratio
+Revenue KPIs:
+Total Revenue
+Cross-Sell Target vs Achieved
+New Business Target vs Achieved
+Renewal Target vs Achieved
+Performance KPIs:
+Achievement Percentage
+Invoice Achievement Percentage
+Number of Meetings by Account Executive
+Number of Invoices by Account Executive
+Opportunity KPIs:
+Total Opportunities
+Open Opportunities
+Closed Won Opportunities
+Opportunity Conversion Ratio
+
 
 📌 Key Business Insights
 
