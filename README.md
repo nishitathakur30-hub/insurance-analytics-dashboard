@@ -1,74 +1,67 @@
 📊 Insurance Analytics Dashboard
-The Insurance Analytics Dashboard provides a comprehensive view of insurance business performance across multiple streams — New Business, Cross-Sell, and Renewal — through interactive KPI dashboards built in Tableau and Power BI.
+Branch Performance & Sales Analytics
+
+A centralized insurance performance dashboard providing insights into sales performance, revenue generation, and opportunity tracking across branches — built using Excel, SQL, Tableau, and Power BI.
 
 📖 Introduction
-This project analyzes multi-source insurance data including invoices, brokerage records, meetings, and opportunities. Using SQL and Excel for data cleaning and transformation, and Tableau & Power BI for visualization, the dashboard delivers actionable business insights to support management decision-making.
-A key finding: the Renewal stream was performing at 150% of target, while a significant gap was identified in the New Business stream — with strategic recommendations provided to address it.
+
+Organizations often face challenges such as fragmented data stored across multiple systems, lack of real-time performance monitoring, difficulty tracking targets versus achievements, and limited visibility into branch-level and employee-level KPIs.
+
+To solve these business problems, this project was developed to create interactive dashboards using Excel, SQL, Tableau, and Power BI, helping organizations centralize data and make data-driven decisions.
 
 📊 Data Description
-The dataset consists of multi-source insurance records including:
 
-Invoice data
-Brokerage records
-Meeting logs
-Opportunity pipeline data
+The project integrates multiple datasets, including:
 
-Data was cleaned, transformed, and merged using SQL and Advanced Excel before being loaded into the visualization tools.
+Target Sheets
+Brokerage and Fees Data
+Invoice Reports
+Meetings Data
+Opportunity Reports
 
 ⚙️ Technologies Used
+Excel → Data cleaning, transformation, and dashboard creation
+SQL → Data storage, relational tables, and KPI queries
+Tableau → Interactive dashboards and drill-down analysis
+Power BI → Advanced KPI dashboard and funnel analytics
 
-Data Cleaning & Analysis: SQL, Advanced Excel
-Visualization: Tableau, Power BI
-KPI Tracking: New Business, Cross-Sell, Renewal streams
+🛠️ Key Performance Indicators (KPIs)
+Revenue KPIs
+Total Revenue
+Cross-Sell Target vs Achieved
+New Business Target vs Achieved
+Renewal Target vs Achieved
+Performance KPIs
+Achievement Percentage
+Invoice Achievement Percentage
+Number of Meetings by Account Executive
+Number of Invoices by Account Executive
+Opportunity KPIs
+Total Opportunities
+Open Opportunities
+Closed Won Opportunities
+Opportunity Conversion Ratio
 
+📌 Key Business Insights
+Renewal business achieved the highest performance
+Fire insurance generated the highest revenue
+Some opportunities are still stuck in the early funnel stage
+Some account executives need performance improvement
+Cross-sell opportunities have high growth potential
 
-🛠️ Key Features
+✅ Recommendations
+Increase focus on cross-sell strategies
+Improve opportunity conversion rates
+Encourage more client meetings
+Monitor performance weekly using dashboards
 
-Interactive dashboards with drill-down KPI tracking
-Multi-stream performance comparison
-Missing value treatment and outlier detection
-Business recommendations based on data insights
+👩‍💻 My Contribution
 
+Worked on the project end-to-end across all modules, including:
 
-📁 Project Structure
-insurance-analytics-dashboard/
-│
-├── data/                  # Raw and cleaned datasets
-├── sql/                   # SQL queries for data extraction
-├── excel/                 # Excel files with pivot tables and analysis
-├── tableau/               # Tableau workbook (.twbx)
-├── powerbi/               # Power BI dashboard file (.pbix)
-└── README.md
+Excel: Performed data cleaning, transformation, KPI calculations, and created the initial dashboard
+SQL: Designed database tables, created joins, views, and wrote queries for KPI and performance analysis
+Tableau: Built interactive dashboards with filters, branch-level and executive-level drill-down reports
+Power BI: Developed advanced dashboards with KPI cards, charts, funnel analysis, and revenue insights
 
-🚀 How to Access the Project
-
-SQL Queries
-
-Open any SQL client (MySQL Workbench, SQL Server, etc.)
-Run the queries from the /sql folder to extract and clean data
-
-
-Excel Analysis
-
-Open files in the /excel folder using Microsoft Excel
-Pivot tables and VLOOKUP/XLOOKUP formulas are pre-built
-
-
-Tableau Dashboard
-
-Open the .twbx file in Tableau Desktop or Tableau Public
-
-
-Power BI Dashboard
-
-Open the .pbix file in Power BI Desktop
-Refresh data source if needed
-
-
-
-
-📌 Key Insights
-
-Renewal stream achieved 150% of its target
-New Business stream showed a significant gap — flagged with recommendations
-Cross-Sell stream performance tracked across all KPIs
+Handled the complete workflow from raw data preparation to final dashboard reporting and business insights generation.
